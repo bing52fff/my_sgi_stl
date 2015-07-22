@@ -1,0 +1,6 @@
+#ifndef __VECTOR
+#define __VECTOR
+
+#include "stl_vector.h"
+
+#endif	//vector

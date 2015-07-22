@@ -1,0 +1,6 @@
+#ifndef __ALGORITHM
+#define __ALGORITHM
+
+#incldue "stl_algobase.h"
+
+#endif	//algorithm

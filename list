@@ -1,0 +1,6 @@
+#ifndef __LIST
+#define __LIST
+
+#include "stl_list.h"
+
+#endif	//list
